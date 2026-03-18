@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254072132052",
+    "project_id": "roadsigntest-e0f3c",
+    "storage_bucket": "roadsigntest-e0f3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254072132052:android:28c5a557e8195034b18641",
+        "android_client_info": {
+          "package_name": "com.example.roadsigntest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0cdWNZHD3iF4bvPeWNw9mLhCBWJNC1lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
