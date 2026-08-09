@@ -1,0 +1,64 @@
+# ==============================
+# Android Studio / IntelliJ
+# ==============================
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Android Studio local settings
+/local.properties
+
+# ==============================
+# Gradle
+# ==============================
+
+.gradle/
+build/
+**/build/
+
+# ==============================
+# Android build output
+# ==============================
+
+*.apk
+*.aab
+*.apks
+
+# ==============================
+# Kotlin
+# ==============================
+
+*.kotlin_module
+
+# ==============================
+# Generated files
+# ==============================
+
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ==============================
+# Firebase / Google
+# ==============================
+
+# Do NOT upload this if you want to keep Firebase configuration private
+google-services.json
+
+# ==============================
+# OS files
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Temporary files
+# ==============================
+
+*.tmp
+*.temp
+*.log
